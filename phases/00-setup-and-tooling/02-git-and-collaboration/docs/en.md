@@ -73,7 +73,7 @@ git merge experiment/new-optimizer
 
 **Important:** You must fork this repository first to be able to push your progress.
 
-1. Go to https://github.com/rohitg00/ai-engineering-from-scratch and click the **Fork** button (top right)
+1. Go to the [course repository](https://github.com/rohitg00/ai-engineering-from-scratch) and click the **Fork** button (top right)
 2. GitHub creates a copy under your account (e.g., `github.com/YOUR-USERNAME/ai-engineering-from-scratch`)
 3. Clone your fork and create your progress branch:
 
